@@ -2,5 +2,5 @@
 - 👀 I’m interested in Web develoment, Cyber security
 - 📫 How to reach me : https://thameralluqmani.github.io
 - Email: thamer.allogmani@gmail.com
-- Phone: +966-531652858
+- Phone: +966531652858
 
